@@ -1,4 +1,4 @@
-# chessEngine
+# Chess Engine
 
 For this project, I coded the game of Chess and implemented a Chess Engine which has the ability to play around a 1000 ELO rating.
 
